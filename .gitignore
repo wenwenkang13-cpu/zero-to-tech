@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 日志和临时文件
+*.log
+*.tmp
+.cache/
